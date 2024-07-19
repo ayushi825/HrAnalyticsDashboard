@@ -134,14 +134,14 @@ Following inferences can be drawn from the dashboard;
   
   ### [3] Attrition by Age 
   ![Screenshot (80)](https://github.com/ayushi825/HrAnalyticsDashboard/assets/90374474/dbad2690-b831-4edb-9bf9-6a09ee6726ff)
-74474/a6ef20e0-5928-4e02-8abf-368cd0c5a246)
 
 
- ### [5] Attrition by Salary slab
+
+ ### [4] Attrition by Salary slab
  ![Screenshot (86)](https://github.com/ayushi825/HrAnalyticsDashboard/assets/90374474/4c94c649-9cf2-4ad1-8de5-749db845125e)
-### [6]  Attrition by Years at Company
+### [5]  Attrition by Years at Company
 ![Screenshot (82)](https://github.com/ayushi825/HrAnalyticsDashboard/assets/90374474/a6ef20e0-5928-4e02-8abf-368cd0c5a246)
 
-### [7]  Attrition by Job Role
+### [6]  Attrition by Job Role
 ![Screenshot (83)](https://github.com/ayushi825/HrAnalyticsDashboard/assets/90374474/f45972f0-64c0-4983-8e48-abd84de7d6e5)
  

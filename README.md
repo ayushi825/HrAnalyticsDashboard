@@ -1,6 +1,6 @@
 # Hr Analytics Dashboard
 
-### Dashboard Link :https://drive.google.com/file/d/1yrg0ZAbURwxtvDQdyoI7nLoBMufqDH_k/view?usp=drivesdk
+### Dashboard Link :![Screenshot (131)](https://github.com/user-attachments/assets/05c4609b-fb2b-400f-b40c-ff64d7672931)
 
 ## Problem Statement
 
